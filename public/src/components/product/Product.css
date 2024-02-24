@@ -1,0 +1,133 @@
+.product-main{
+    margin-left: 20vw;
+    margin-top: 50px;
+    gap: 20px;
+}
+.best span{
+    height: 30px;
+    width: 120px;
+    display: flex;
+    align-items: center;
+    gap: 5px;
+    justify-content: center;
+    background-color: #FF7724;
+    color: white;
+    border-radius: 0px 5px 5px 0px;
+}
+.product-img{
+    margin-top: 50px;
+}
+.product-detail{
+    display: flex;
+    gap: 30px;
+}
+.product-count{
+    border: 1px solid black;
+    border-radius: 99px;
+    height: 30px;
+    width: 30px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 100px;
+    color: gray;
+    font-size: 16px;
+}
+.product-name{
+    margin-left: 50px;
+    color: gray;
+}
+.product-detail-para-1{
+    width: 350px;
+    font-size: 14px;
+    color: gray;
+}
+.product-detail-para-1 span{
+    font-weight: 500;
+    color: rgb(95, 95, 95);
+}
+.product-detail-para-2{
+    margin-left: 20px;
+    margin-top: 10px;
+    width: 350px;
+    font-size: 14px;
+    color: gray;   
+}
+.show{
+    margin-top: 30px;
+    font-size: 16px;
+    display: flex;
+    align-items: center;
+    color: #1B88F4;
+}
+.product-rating{
+  padding: 20px;
+  margin-left: 20px;
+    height: 150px;
+    width: 100px;
+    border-radius: 0px 0px 10px 10px;
+    background-color: #F3F9FF;
+}
+.number{
+    margin-left: 20px;
+    font-size: 30px;
+    color: #074786;
+}
+.rating-des{
+    color:#074786 ;
+}
+.view{
+    margin-top: 20px;
+    height: 45px;
+    width: 200px;
+    background-color: #1B88F4;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    border-radius: 99px;
+    border: none;
+}
+
+/* 4 */
+.line-1{
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.box{
+    background-color: white;
+    color: #1B88F4;
+    height: 20px;
+    width: 20px;
+    border-radius: 99px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.box-text{
+    color: gray;
+    font-size: 14px;
+}
+.product-detail-para-2-box{
+    padding-left: 10px;
+    border-radius: 10px;
+    background-color: #FFF4ED;
+    margin-left: 20px;
+    margin-top: 10px;
+}
+.product-detail-para-3{
+    margin-top: 10px;
+}
+.para-3-1{
+    font-size: 14px;
+    color: gray;
+}
+.para-3-list ul{
+    margin-top: 5px;
+    font-size: 14px;
+    color: gray;
+}
+.para-3-list ul li{
+    list-style: none;
+}

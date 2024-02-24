@@ -1,0 +1,33 @@
+.sign{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding-right: 240px;
+    margin-left: 20vw;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+.sign-text{
+    font-size: 28px;
+    color: gray;
+    width: 400px;
+}
+.sign-input{
+    display: flex;
+    align-items: center;
+}
+.sign-input input{
+    border: none;
+    height: 40px;
+    width: 200px;
+}
+.but{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color: white;
+    background-color: #1B88F4;
+    height: 40px;
+    width: 80px;
+    border-radius: 0px 5px 5px 0px;
+}

@@ -1,0 +1,30 @@
+.bread{
+    margin-left: 20vw;
+}
+.option{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    gap: 20px;
+}
+.op-1{
+    color: #2C384A;
+    padding: 5px;
+    display:flex ;
+align-items: center;
+justify-content: center;
+    background-color: white;
+    border-radius: 99px;
+    height: 30px;
+margin-left: 5px;
+margin-right: 5px;
+}
+.bcrum{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+}
+.bcrum span{
+    color: gray;
+    align-items: center;
+}

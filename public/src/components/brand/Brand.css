@@ -1,0 +1,68 @@
+.brand{
+    margin-left: 20vw;
+    margin-top: 50px;
+}
+.brand-products{
+    margin-top: 50px;
+    display: flex;
+    align-items: center;
+    gap: 50px;
+}
+.brand-head{
+    font-size: 28px;
+    color: #2C384A;
+}
+.b-p-img{
+    margin-left: 50px;
+}
+.b-p-offer{
+    margin-top: 30px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.offer-1{
+    background-color: #f2f4f7;
+    color: #074786;
+    height: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.offer-2{
+    background-color: #f2f4f7;
+    color: #074786;
+    height: 20px;
+    margin-left: 5px;
+    margin-right: 5px;
+}
+.b-p-heading{
+    margin-left: 70px;
+    margin-top: 10px;
+    color: #626e79;
+    font-size: 16px;
+    font-weight: 500;
+}
+.b-p-title{
+    margin-top: 10px;
+    color: #626e79;
+    font-size: 18px;
+    width: 250px;
+}
+.b-p-price{
+    margin-top: 10px;
+    display: flex;
+    align-items: center;
+    gap: 10px;
+}
+.price-1{
+    font-size: 18px;
+    color: gray;
+}
+.price-2{
+    font-size: 14px;
+    color: rgb(177, 176, 176);
+}
+.price-3{
+    color: red;
+    font-size: 16px;
+}

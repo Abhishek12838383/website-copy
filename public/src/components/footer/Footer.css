@@ -1,0 +1,21 @@
+.footer{
+    padding-left: 20vw;
+    padding-top: 50px;
+    height: 400px;
+    background-color: #212731;
+}
+.footer-list ul li{
+    margin-bottom: 10px;
+    display: flex;
+    align-items: center;
+    color: #B6BDC4;
+    list-style: none;
+}
+.footer-head{
+    margin-bottom: 10px;
+    color: white;
+}
+.footer-list{
+    display: flex;
+    gap: 100px;
+}
